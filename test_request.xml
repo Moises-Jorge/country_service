@@ -1,4 +1,4 @@
-<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:coun="http://example.com/countries">
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:coun="http://www.classes.generated/countries">
    <soapenv:Header/>
    <soapenv:Body>
       <coun:getCountryRequest>
