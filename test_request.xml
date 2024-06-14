@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:coun="http://example.com/countries">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <coun:getCountryRequest>
+         <coun:name>Sample Country</coun:name>
+      </coun:getCountryRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
