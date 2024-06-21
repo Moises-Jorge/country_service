@@ -1,8 +1,8 @@
-<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:coun="http://www.classes.generated/countries">
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:coun="http://www.classes.generated">
    <soapenv:Header/>
    <soapenv:Body>
       <coun:getCountryRequest>
-         <coun:name>Sample Country</coun:name>
+         <coun:name>Angola</coun:name>
       </coun:getCountryRequest>
    </soapenv:Body>
 </soapenv:Envelope>
